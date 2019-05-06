@@ -3,8 +3,8 @@ Type: Package
 LazyData: true
 Title: Integrating Multiple Modalities of High Throughput Assays Using
         Item Response Theory
-Version: 1.0.5
-Date: 2017-07-11
+Version: 1.0.6
+Date: 2019-05-06
 Author: Pan Tong, Kevin R Coombes
 Maintainer: Kevin R. Coombes <krc@silicovore.com>
 Description: Provides a systematic framework for
@@ -16,11 +16,11 @@ Description: Provides a systematic framework for
  be accurately inferred. See Tong and Coombes (2012) 
  <doi:10.1093/bioinformatics/bts561>. 
 License: Apache License (== 2.0)
-Depends: ltm, foreach, doParallel
+Depends: R (>= 2.10), ltm, foreach, doParallel
 Imports: mclust, MASS, abind
 Suggests: KernSmooth
 URL: http://oompa.r-forge.r-project.org/
 NeedsCompilation: no
-Packaged: 2017-07-11 17:19:19 UTC; coom05
+Packaged: 2019-05-06 17:41:53 UTC; Kevin Coombes
 Repository: CRAN
-Date/Publication: 2017-07-11 21:47:45 UTC
+Date/Publication: 2019-05-06 18:10:03 UTC
