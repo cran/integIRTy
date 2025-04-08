@@ -1,4 +1,4 @@
-d8229860571e5f693d194906f979c30a *DESCRIPTION
+b234203f2a164b63984b26cdd2e55560 *DESCRIPTION
 3ca7534b44597072bf818ee9c8060464 *NAMESPACE
 334d980ed2bf72dce70f4b7720875277 *R/Ii.R
 593da56edc3481fc15546fc9092ea6ca *R/Pi.R
@@ -10,11 +10,11 @@ c4f2ca23f074d5694ac01584a4c37cbc *R/intIRTeasyRunFromRaw.R
 7a696536e625a90434b642fe463df556 *R/miscellaneous.R
 af38a1cb1cb471db6a16efb4b29dfdff *R/simulateBinaryResponseMat.R
 7a42add04a02730899d96d68a4db8693 *R/thetaEst.R
-1ebd1fa485a0838241feceec7f53acb6 *build/vignette.rds
-0a80462ccb081129c344099dddb9ffc5 *data/OV.rda
+9b32f73574fe7e1d781e4013406f4f51 *build/vignette.rds
+bbffb1cf886f39c0c5799aaa65feb6d1 *data/OV.rda
 4b24947127f732d5cacad06b13f982d3 *inst/doc/integIRTy.R
 711259a9c2bf43f271bddf1f69eb4659 *inst/doc/integIRTy.Rnw
-0c8133cbcf7101881d6fdca44ffcc3dd *inst/doc/integIRTy.pdf
+c00473fe9a763dd5bf59b7eba053c57e *inst/doc/integIRTy.pdf
 4287da46711d1bb81d13582a595affda *man/calculatePermutedScoreByGeneSampling.Rd
 a32888e5036e336509a4146a7c5bcf6e *man/computeAbility.Rd
 bd09ff5923c1849cc9004d5f3a6e397a *man/datasets.Rd
