@@ -3,8 +3,8 @@ Type: Package
 LazyData: true
 Title: Integrating Multiple Modalities of High Throughput Assays Using
         Item Response Theory
-Version: 1.0.8
-Date: 2025-04-08
+Version: 1.0.9
+Date: 2026-09-24
 Authors@R: c(person(given = "Pan", family = "Tong", role = "aut"),
 	    person(given = c("Kevin", "R."), family = "Coombes",
                    role = c("aut", "cre"), email = "krc@silicovore.com"))
@@ -20,11 +20,11 @@ License: Apache License (== 2.0)
 Depends: R (>= 2.10), ltm, foreach, doParallel
 Imports: mclust, MASS, abind
 Suggests: KernSmooth
-URL: http://oompa.r-forge.r-project.org/
+URL: http://silicovore.com/OOMPA/standalone.html
 NeedsCompilation: no
-Packaged: 2025-04-08 13:56:52 UTC; kevin
+Packaged: 2026-09-24 20:39:55 UTC; KRC
 Author: Pan Tong [aut],
   Kevin R. Coombes [aut, cre]
 Maintainer: Kevin R. Coombes <krc@silicovore.com>
 Repository: CRAN
-Date/Publication: 2025-04-08 14:40:02 UTC
+Date/Publication: 2026-09-24 21:50:02 UTC

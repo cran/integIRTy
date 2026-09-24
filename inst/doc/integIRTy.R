@@ -159,5 +159,3 @@ all(score_integrated==runFromRaw_ScoreMat[, 4])
 ###################################################
 getwd()
 sessionInfo()
-
-
